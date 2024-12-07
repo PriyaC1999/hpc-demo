@@ -1,6 +1,6 @@
 #include<stdio.h>
 
 int main(){
-	printf("heloo World.. from jenkins!!!\n");
+	printf("If you see this.....means CICD pipeline is working!!!\n");
 }
 
